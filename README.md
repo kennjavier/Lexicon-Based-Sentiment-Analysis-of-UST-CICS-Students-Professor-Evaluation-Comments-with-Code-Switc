@@ -1,3 +1,5 @@
+#Lexicon-Based Sentiment Analysis of UST-CICS Students' Professor Evaluation Comments
+with Code Switching using Naive Bayes Algorithm and Support Vector Machines
 Feedback is essential in any organization and institution. With this, sentiment analysis is
 a useful tool in evaluating large quantities of textual feedback such as faculty evaluation
 comments. This study provides an approach that evaluates the comments of UST-CICS students
