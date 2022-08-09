@@ -16,4 +16,9 @@ Machines, was able to achieve accuracies of 55% overall, 58% in classifying Engl
 Machines before Naive Bayes, was able to achieve accuracies of 61% overall, 70% for English,
 54% for Filipino, and 54% for Taglish.
 ## About
+Authors:  
+Curada, Vincent   
+Javier, Kenneth (kennethcarlojavier@gmail.com)  
+Madamba, Garry (garrymadamba@gmail.com)  
+Montenegro, Reu (colleinemontenegro@gmail.com)  
 This is the program used in this research: https://www.researchgate.net/publication/360411417_Lexicon-Based_Sentiment_Analysis_of_Professor_Evaluation_Students'_Comments_with_Code_Switching_Using_Naive_Bayes_Algorithm_and_Support_Vector_Machines_Lexicon-Based_Sentiment_Analysis_of_Professor_Ev
